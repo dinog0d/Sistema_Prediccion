@@ -5,7 +5,8 @@ __Dairon Alberto Montes Barrada__
 
 __Yuliana Selena Alzate Palacio__
 
-📕 Descripción
+## 📕 Descripción
+
 Este proyecto tiene como objetivo preparar y limpiar un conjunto de datos médico 🏥 para predecir el Grupo Relacionado por el Diagnóstico (GRD) al ingreso hospitalario.
 
 A partir de varias variables clínicas y administrativas, se llevó a cabo:
@@ -16,14 +17,14 @@ A partir de varias variables clínicas y administrativas, se llevó a cabo:
 
 ✅ La preparación de un dataframe final, listo para entrenar un modelo de predicción
 
-##🎯 Objetivos
+## 🎯 Objetivos
 Comprender la estructura de los datos (tipos, distribución, nulos).
 
 Identificar variables relevantes y eliminar información redundante o inconsistente.
 
 Preparar un conjunto de datos de calidad para el modelo predictivo.
 
-##🛠 Pasos Realizados
+## 🛠 Pasos Realizados
 
 1️⃣ Análisis Exploratorio de Datos (EDA) 📊
 
