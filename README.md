@@ -29,7 +29,9 @@ Preparar un conjunto de datos de calidad para el modelo predictivo.
 1️⃣ Análisis Exploratorio de Datos (EDA) 📊
 
 2️⃣ Limpieza de datos y manejo de nulos 🧹
+
 3️⃣ Selección de variables relevantes 🔍
+
 4️⃣ Creación de dataframe final para el modelo 🏹
 
 🚀 Finalmente, contamos con un conjunto de datos depurado, consistente y listo para aplicar métodos de Machine Learning en la predicción de GRD.
